@@ -6,6 +6,8 @@ public class Sample {
 
 		System.out.println("ragul");
 
+		System.out.println("123467");
+		
 	}
 
 }
